@@ -36,18 +36,6 @@ I am currently a student deeply passionate about **Backend Development**. I love
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinKhantt&show_icons=true&theme=tokyonight&hide_border=true" alt="MinKhantt's Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinKhantt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 🤝 Let's Connect!
 
 I’m always happy to chat about technology, backend architecture, or open-source collaboration.
