@@ -18,7 +18,7 @@ I am currently a student deeply passionate about **Backend Development**. I love
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,nodejs,java,php,c#" />
+    <img src="https://skillicons.dev/icons?i=py,js,nodejs,java,php,cs,go,kt" />
   </a>
   <br>
   <a href="https://skillicons.dev">
