@@ -8,7 +8,7 @@ I am currently a student deeply passionate about **Backend Development**. I love
 ### My Journey So Far
 
 - 🌱 **Currently Learning:** **Spring Boot**, **Microservices** and exploring **System Design** patterns.
-- 🔭 **Current Project:** Building a **Real Time Chat Api** using **FastAPI** and **PostgreSQL**.
+- 🔭 **Current Project:** Building a production ready microservices **Patient Managemant System** using **Spring Boot** and **PostgreSQL**.
 - 🛠️ **Goal:** To build secure, scalable, and high-performance backend infrastructures.
 - 💬 **Ask me about:** Python, Java, or why I chose Backend over Frontend
   
