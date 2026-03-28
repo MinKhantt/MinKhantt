@@ -1,7 +1,7 @@
 # Hello, I'm Min Khant Maung
-### Aspiring Backend Developer | Student At NCC Education
+### Backend Developer | Building Scalable Systems
 
-I am currently a student deeply passionate about **Backend Development**. I love diving into how data flows through systems, designing efficient APIs, and learning the magic behind server-side logic.
+I’m a backend-focused developer who enjoys designing robust APIs, scalable architectures, and clean system designs. I focus on writing maintainable code and understanding how real-world systems operate under load.
 
 ---
 
@@ -18,7 +18,7 @@ I am currently a student deeply passionate about **Backend Development**. I love
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,nodejs,java,php,cs,go,kotlin" />
+    <img src="https://skillicons.dev/icons?i=py,js,nodejs,java,php,cs,kotlin" />
   </a>
   <br>
   <a href="https://skillicons.dev">
