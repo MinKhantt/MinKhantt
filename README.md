@@ -17,18 +17,22 @@ I’m a backend-focused developer who enjoys designing robust APIs, scalable arc
 ### Tech Stack (Learning & Building)
 
 <p align="left">
+  <h3>Languages</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,nodejs,java,php,cs,kotlin" />
   </a>
   <br>
+  <h3>Backend & Frameworks</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=fastapi,express,spring,graphql" />
   </a>
   <br>
+  <h3>Databases & Caching</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
   </a>
   <br>
+  <h3>Tools & DevOps</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,ubuntu,vscode,idea,postman,git,github" />
   </a>
