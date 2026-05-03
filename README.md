@@ -19,7 +19,7 @@ I’m a backend-focused developer who enjoys designing robust APIs, scalable arc
 <p align="left">
   <h3>Languages</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,java," />
+    <img src="https://skillicons.dev/icons?i=py,java,js,ts" />
   </a>
   <br>
   <h3>Backend & Frameworks</h3>
