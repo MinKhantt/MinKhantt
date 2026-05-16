@@ -1,5 +1,5 @@
 # Hello, I'm Min Khant Maung
-### Junior Backend Developer | Building Scalable Systems
+### Backend Developer
 
 I’m a backend-focused developer who enjoys designing robust APIs, scalable architectures and clean system designs. I focus on writing maintainable code and understanding how real-world systems operate under load.
 
