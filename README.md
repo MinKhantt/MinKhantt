@@ -8,9 +8,9 @@ I’m a backend-focused developer who enjoys designing robust APIs, scalable arc
 ### My Journey So Far
 
 - 🌱 **Currently Learning:** **Spring Boot**, **Microservices** and exploring **System Design** patterns.
-- 🔭 **Current Project:** Building a production ready microservices **Patient Managemant System** using **Spring Boot** and **PostgreSQL**.
-- 🛠️ **Goal:** To build secure, scalable, and high-performance backend infrastructures.
-- 💬 **Ask me about:** Python, Java, or why I chose Backend over Frontend
+- 🔭 **Current Project:** Building a production ready **Shopping Cart Api** using **Spring Boot** and **PostgreSQL**.
+- 🛠️ **Goal:** To build secure, scalable and high-performance backend infrastructures.
+- 💬 **Ask me about:** Python, Java or why I chose Backend over Frontend.
   
 ---
 
