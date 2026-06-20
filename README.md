@@ -22,7 +22,7 @@ I am a developer focused on designing robust APIs and scalable system architectu
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,php" />
   </a>
   <br>
-  <h3>Backend & Frameworks</h3>
+  <h3>Frameworks</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,fastapi,express,spring,graphql" />
   </a>
