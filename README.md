@@ -1,16 +1,16 @@
 # Hello, I'm Min Khant Maung
-### Backend Developer
+### Full-Stack Developer
 
-I’m a backend-focused developer who enjoys designing robust APIs, scalable architectures and clean system designs. I focus on writing maintainable code and understanding how real-world systems operate under load.
+I am a developer focused on designing robust APIs and scalable system architectures while building seamless, performant user interfaces. I am passionate about writing maintainable code and understanding how the full stack operates under load.
 
 ---
 
 ### My Journey So Far
 
 - 🌱 **Currently Learning:** **Spring Boot**, **Microservices** and exploring **System Design** patterns.
-- 🔭 **Current Project:** Building a production ready **Shopping Cart Api** using **Spring Boot** and **PostgreSQL**.
-- 🛠️ **Goal:** To build secure, scalable and high-performance backend infrastructures.
-- 💬 **Ask me about:** Python, Java or why I chose Backend over Frontend.
+- 🔭 **Current Project:** Building a production ready **Ecommerce Backend** using **Spring Boot** and **PostgreSQL**.
+- 🛠️ **Goal:** To build secure, scalable and high-performance backend infrastructures and intuitive user experiences.
+- 💬 **Ask me about:** Python, Java or how I am applying my backend expertise to deliver optimized frontend solutions
   
 ---
 
@@ -19,7 +19,7 @@ I’m a backend-focused developer who enjoys designing robust APIs, scalable arc
 <p align="left">
   <h3>Languages</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,ts" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,php" />
   </a>
   <br>
   <h3>Backend & Frameworks</h3>
@@ -42,7 +42,7 @@ I’m a backend-focused developer who enjoys designing robust APIs, scalable arc
 
 ### 🤝 Let's Connect
 
-I’m open to backend development opportunities, internships and collaboration on scalable systems.
+I’m currently seeking opportunities in web development that allow me to leverage my backend background while contributing to high-quality frontend projects.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/min-khant-maung-3454362b3/" target="_blank">
