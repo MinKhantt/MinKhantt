@@ -1,7 +1,7 @@
 # Hello, I'm Min Khant Maung
-### Full-Stack Developer
+### Backend Developer
 
-I am a developer focused on designing robust APIs and scalable system architectures while building seamless, performant user interfaces. I am passionate about writing maintainable code and understanding how the full stack operates under load.
+I’m a backend focused developer who enjoys designing robust APIs, scalable architectures and clean system designs. I focus on writing maintainable code and understanding how real-world systems operate under load.
 
 ---
 
@@ -42,7 +42,7 @@ I am a developer focused on designing robust APIs and scalable system architectu
 
 ### 🤝 Let's Connect
 
-I’m currently seeking opportunities in web development that allow me to leverage my backend background while contributing to high-quality frontend projects.
+I’m open to backend development opportunities, internships and collaboration on scalable systems.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/min-khant-maung-3454362b3/" target="_blank">
